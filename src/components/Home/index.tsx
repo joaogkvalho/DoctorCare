@@ -27,7 +27,7 @@ export function LandingPage(){
                             rounded="full" w="275px" py="6" border="2px"
                             color="whiteAlpha.900" fontSize="sm" bgColor="green.700"
                             _hover={{
-                                bgColor: "green.700"
+                                bgColor: "green.900"
                             }}
                         >
                             <FaWhatsapp size="20px" />

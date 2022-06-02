@@ -23,6 +23,11 @@ export function Header(){
                 <Button 
                     rounded="full" w="200px" py="6" border="2px" borderColor="green.700" 
                     color="green.700" fontSize="sm" bgColor="transparent"
+                    _hover={{
+                        bgColor: "green.900",
+                        color: "gray.50",
+                        borderColor: "green.900"
+                    }}
                 >
                     AGENDAR CONSULTA
                 </Button>
