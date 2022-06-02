@@ -38,7 +38,7 @@ export function LandingPage(){
                     </Flex>
 
                     <Box boxSize="sm" mr="8">
-                        <Image src="../../../public/image.png" />
+                        <Image src="../../../public/landingPage.png" />
                     </Box>
                 </Flex>
             </Flex>
